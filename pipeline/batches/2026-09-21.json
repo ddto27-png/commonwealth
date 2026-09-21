@@ -1,0 +1,35 @@
+[
+  {
+    "id": "daylight", "name": "Daylight", "url": "https://daylightcomputer.com/", "category": "Computing / attention",
+    "summary": "A tablet with a paper-like display for reading, writing and using apps.",
+    "audience": "Readers and people who want a calmer place to write or take notes.",
+    "technology": "A reflective display designed for fluid interaction and use in sunlight.",
+    "why": "It asks how the physical qualities of a screen can change the feeling of using a computer. A useful reference for Commonwealth's paper-inspired interface.",
+    "freshness": "New to Commonwealth, not a newly launched product. The maker's page includes reactions dated May 2024.",
+    "caveat": "Product features are described by the manufacturer; health and attention benefits are not independently established here.",
+    "checkedAt": "2026-09-21", "status": "pending",
+    "sources": [{"title": "Daylight — product and company", "url": "https://daylightcomputer.com/", "primary": true, "evidence": "Describes a paper-like display, reading, writing, app support and sunlight use."}]
+  },
+  {
+    "id": "looking-glass-go", "name": "Looking Glass Go", "url": "https://lookingglassfactory.com/", "category": "Displays / memory",
+    "summary": "A portable display for viewing 3D memories and creative work without a headset.",
+    "audience": "People displaying personal images and creators experimenting with spatial imagery.",
+    "technology": "Light-field display technology presents multiple perspectives so digital images can appear to have depth.",
+    "why": "It gives a digital memory a physical place in a room. It could inspire us to think about how saved ideas are displayed and revisited.",
+    "freshness": "New to Commonwealth; this run did not verify a launch date.",
+    "caveat": "Go is distinct from the company's newer large-format displays. The maker says Go has no included battery; portable does not mean cordless.",
+    "checkedAt": "2026-09-21", "status": "pending",
+    "sources": [{"title": "Looking Glass — Go and light-field displays", "url": "https://lookingglassfactory.com/", "primary": true, "evidence": "Describes Go, headset-free viewing and light-field perspectives; its FAQ says a battery is not included."}]
+  },
+  {
+    "id": "playdate", "name": "Playdate", "url": "https://play.date/", "category": "Games / physical interaction",
+    "summary": "A pocket game console with a hand crank that controls actions in some games.",
+    "audience": "Players and independent developers interested in unusual, small-scale games.",
+    "technology": "Digital games respond to an analog crank alongside conventional buttons.",
+    "why": "A simple physical gesture becomes a creative constraint. It is a strong reference for making Commonwealth's tear-off interaction feel purposeful.",
+    "freshness": "An established reference newly added to our research queue, not presented as a recent startup.",
+    "caveat": "The crank is a controller, not a charger, and not every game uses it. This is the first pipeline calibration batch, not a roundup of new launches.",
+    "checkedAt": "2026-09-21", "status": "pending",
+    "sources": [{"title": "Playdate — system and crank", "url": "https://play.date/", "primary": true, "evidence": "Describes the crank as an analog controller and credits Teenage Engineering for the hardware design collaboration."}]
+  }
+]

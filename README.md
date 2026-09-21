@@ -1,5 +1,9 @@
 # Commonwealth
 
+## Research inbox
+
+Open [the research inbox](pipeline/inbox.html) to browse checked candidates for future editions. The [pipeline guide](pipeline/README.md) explains the weekly Codex research run, duplicate checks, review decisions and publishing handoff. Research intake does not automatically change the website collection. The public GitHub repository stores the queue; Codex hosts the schedule.
+
 A paper-inspired hub for discovering creative projects, technology, and businesses. Edition 001 features a tear-off noticeboard, a searchable collection of 19 ideas, historical project locations, and a personal saved collection.
 
 ## Preview locally
