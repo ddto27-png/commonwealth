@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import vm from 'node:vm';
 import { fileURLToPath } from 'node:url';
+import { build as buildProof } from './proof.mjs';
 
 const folder = path.dirname(fileURLToPath(import.meta.url));
 export const normalizeName = value => value.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu, '');
@@ -82,7 +83,8 @@ export function main(args) {
   }
   if (command !== 'check') {
     atomicWrite(file, JSON.stringify(queue, null, 2) + '\n');
-    atomicWrite(path.join(folder, 'inbox.html'), render(queue));
+    atomicWrite(path.join(folder, 'inbox.html'), render(queue).replace('</header>', '<p><a href="proof.html">Open the proofreading desk ↗</a></p></header>'));
+    buildProof();
   }
   console.log(`${queue.length} candidates validated; ${queue.filter(i=>i.status==='pending').length} awaiting review.`);
 }

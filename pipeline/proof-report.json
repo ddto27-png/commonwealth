@@ -1,0 +1,1718 @@
+{
+  "generatedAt": "2026-09-21T16:46:49.462Z",
+  "records": [
+    {
+      "id": "idea:coperni",
+      "name": "Coperni",
+      "kind": "Website idea",
+      "copy": {
+        "id": "coperni",
+        "name": "Coperni",
+        "title": "A bag made from 99% air",
+        "category": "Design",
+        "theme": "Materials",
+        "icon": "bag",
+        "color": "yellow",
+        "maker": "Coperni & Ioannis Michaloudis",
+        "year": "2024",
+        "description": "The Air Swipe Bag is made from silica aerogel, an exceptionally light material. The 33-gram design turns a familiar accessory into an experiment with how little matter an object needs.",
+        "why": "A material used in space technology finds an unexpected role in fashion. It is a useful example of ideas moving between disciplines.",
+        "prompt": "What material from another field could change something you are making?",
+        "url": "https://www.istitutomarangoni.com/en/maze35/design/the-coperni-can-revolution-whats-behind-the-99-air-swipe-bag",
+        "source": "Istituto Marangoni"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.istitutomarangoni.com/en/maze35/design/the-coperni-can-revolution-whats-behind-the-99-air-swipe-bag"
+      ],
+      "hash": "46c557a9b45922fcd245ca79a9afa2c437be820eca6936c309206cbed325bdc2",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.istitutomarangoni.com/en/maze35/design/the-coperni-can-revolution-whats-behind-the-99-air-swipe-bag"
+      ]
+    },
+    {
+      "id": "idea:corner",
+      "name": "Corner",
+      "kind": "Website idea",
+      "copy": {
+        "id": "corner",
+        "name": "Corner",
+        "title": "Places recommended by friends",
+        "category": "Apps",
+        "theme": "Connection",
+        "icon": "map",
+        "color": "blue",
+        "maker": "Eliza Wu & Jake Xia",
+        "year": "Ongoing",
+        "description": "A social map for saving and discovering places through personal taste and recommendations. It helps turn scattered suggestions into places you can actually find again.",
+        "why": "A map can reflect the people you trust and the experiences you enjoy, as well as geography.",
+        "prompt": "What would you include in a guide to your neighborhood for one particular friend?",
+        "url": "https://www.corner.inc/guides",
+        "source": "Corner"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.corner.inc/guides"
+      ],
+      "hash": "b950b60f4aafcadf6555e60d5a91a64b994596ffe5b70fee113c89b31e37e2f0",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Link needs checking: https://www.corner.inc/guides"
+      ]
+    },
+    {
+      "id": "idea:remento",
+      "name": "Remento",
+      "kind": "Website idea",
+      "copy": {
+        "id": "remento",
+        "name": "Remento",
+        "title": "Family stories in a book",
+        "category": "Apps",
+        "theme": "Memory",
+        "icon": "book",
+        "color": "pink",
+        "maker": "Charlie Greene & Alex Massonneau",
+        "year": "Founded 2021",
+        "description": "Family members answer prompts by speaking. Remento turns recordings into written stories and a printed book, with QR codes that link back to the original voice.",
+        "why": "It makes a large, emotional task—preserving family stories—possible through a series of small conversations.",
+        "prompt": "Which question would help you learn something new about someone close to you?",
+        "url": "https://www.remento.co/how-it-works",
+        "source": "Remento"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.remento.co/how-it-works"
+      ],
+      "hash": "dec245f1c8a88ef6dbaabee1a34691a41e0a6f26d8368f24a5ae62591b813a6c",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.remento.co/how-it-works"
+      ]
+    },
+    {
+      "id": "idea:osmo",
+      "name": "Osmo",
+      "kind": "Website idea",
+      "copy": {
+        "id": "osmo",
+        "name": "Osmo",
+        "title": "Capture and recreate scents",
+        "category": "Technology",
+        "theme": "Senses",
+        "icon": "scent",
+        "color": "green",
+        "maker": "Osmo",
+        "year": "Demonstrated 2024",
+        "description": "Osmo describes a laboratory process that analyzes a scent, translates it into data, and sends a recipe to a formulation robot to recreate it. An early experiment used a slice of coconut.",
+        "why": "A sensory quality of a physical object can be recorded and recreated elsewhere. The company calls this process scent teleportation.",
+        "prompt": "Which smell would you want to preserve from a place you love?",
+        "url": "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it",
+        "source": "Osmo"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+      ],
+      "hash": "c26f0d24e4688454f25a700837b2b6732fb58104d6737a2678830d8905f0faab",
+      "review": {
+        "hash": "c26f0d24e4688454f25a700837b2b6732fb58104d6737a2678830d8905f0faab",
+        "fields": {
+          "name": {
+            "verdict": "supported",
+            "note": "The company article identifies Osmo.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "maker": {
+            "verdict": "supported",
+            "note": "This is Osmo’s own account.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "year": {
+            "verdict": "supported",
+            "note": "Article dated October 29, 2024, reporting laboratory demonstrations.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "url": {
+            "verdict": "supported",
+            "note": "The article covers this laboratory process.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "source": {
+            "verdict": "supported",
+            "note": "Published by Osmo.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "title": {
+            "verdict": "needs-change",
+            "note": "Suggested: “A laboratory experiment in recreating scent.” The present title can imply a broadly available capability.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          },
+          "description": {
+            "verdict": "needs-change",
+            "note": "The process and coconut example match paragraphs 3–6. Add that reproductions aim for similarity; the source describes unresolved detection and reproduction challenges. Suggested final sentence: “The company says reproductions aim for similarity and that some scent molecules remain difficult to detect or reproduce.”",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it"
+            ]
+          }
+        },
+        "interpretationNote": "Editorial interpretation still needs proofreading.",
+        "sourceHashes": {
+          "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it": "d6d9be364ff2a34839562fe727f242c70a7e89f9ec6b719b8a79bd7012db157f"
+        }
+      },
+      "blockers": [
+        "Dana’s proofreading approval is missing.",
+        "title: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison."
+      ]
+    },
+    {
+      "id": "idea:blur",
+      "name": "Blur Building",
+      "kind": "Website idea",
+      "copy": {
+        "id": "blur",
+        "name": "Blur Building",
+        "title": "A building made of fog",
+        "category": "Design",
+        "theme": "Senses",
+        "icon": "cloud",
+        "color": "blue",
+        "maker": "Diller Scofidio + Renfro",
+        "year": "2002 · historical",
+        "description": "For the Swiss Expo in Yverdon-les-Bains, a pavilion was enveloped in fog produced from lake water. The temporary structure was later dismantled.",
+        "why": "Architecture becomes an atmosphere you move through, changing the way you notice space and your own senses.",
+        "prompt": "Could you define a space using light, sound, or temperature?",
+        "url": "https://dsrny.com/project/blur-building",
+        "source": "Diller Scofidio + Renfro"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://dsrny.com/project/blur-building"
+      ],
+      "hash": "815e637c56f4e1f82cea924575cb5f5a587671b28bf56a8f44085c80902ff23b",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://dsrny.com/project/blur-building"
+      ]
+    },
+    {
+      "id": "idea:labyrinth",
+      "name": "Invisible Labyrinth",
+      "kind": "Website idea",
+      "copy": {
+        "id": "labyrinth",
+        "name": "Invisible Labyrinth",
+        "title": "A maze without physical walls",
+        "category": "Art",
+        "theme": "Senses",
+        "icon": "maze",
+        "color": "pink",
+        "maker": "Jeppe Hein",
+        "year": "2005 · historical",
+        "description": "Visitors wore headsets that vibrated when they encountered infrared boundaries. The maze organized their movements without visible walls. It was first exhibited at the Centre Pompidou in Paris.",
+        "why": "A structure can exist through feedback and perception. The boundaries are experienced rather than built.",
+        "prompt": "How could a simple signal guide people through an experience?",
+        "url": "https://www.jeppehein.net/project_id.php?id=125&path=works",
+        "source": "Jeppe Hein"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.jeppehein.net/project_id.php?id=125&path=works"
+      ],
+      "hash": "45aea1058b97e615bdc7c9df8ba798e2e2ddb31d09a6426e4345690157c442e3",
+      "review": {
+        "hash": "45aea1058b97e615bdc7c9df8ba798e2e2ddb31d09a6426e4345690157c442e3",
+        "fields": {
+          "description": {
+            "verdict": "needs-change",
+            "note": "The artist describes infrared emitters and vibrating sensor headsets. Paris 2005 is the earliest exhibition listed, but the page does not explicitly call it the first. Suggested: “It was exhibited at the Centre Pompidou in Paris in 2005.”",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.jeppehein.net/project_id.php?id=125&path=works"
+            ]
+          },
+          "year": {
+            "verdict": "supported",
+            "note": "Work details date the work to 2005.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.jeppehein.net/project_id.php?id=125&path=works"
+            ]
+          },
+          "maker": {
+            "verdict": "supported",
+            "note": "Listed on Jeppe Hein’s official works page.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.jeppehein.net/project_id.php?id=125&path=works"
+            ]
+          }
+        },
+        "interpretationNote": "Editorial interpretation still needs proofreading.",
+        "sourceHashes": {
+          "https://www.jeppehein.net/project_id.php?id=125&path=works": "394f4950a2e0b0ae15eead10a8549e2e4591f8da44e9186daad213f36561abb3"
+        }
+      },
+      "blockers": [
+        "Dana’s proofreading approval is missing.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison."
+      ]
+    },
+    {
+      "id": "idea:cities",
+      "name": "Cities and Memory",
+      "kind": "Website idea",
+      "copy": {
+        "id": "cities",
+        "name": "Cities and Memory",
+        "title": "Hear a place, then its reinterpretation",
+        "category": "Sound",
+        "theme": "Memory",
+        "icon": "wave",
+        "color": "green",
+        "maker": "Cities and Memory contributors",
+        "year": "Ongoing",
+        "description": "A collaborative sound project pairs field recordings of real places with artistic reinterpretations, allowing listeners to compare the original sound with a new composition.",
+        "why": "The same place can become many different experiences through another person’s attention and imagination.",
+        "prompt": "Record a minute of your surroundings. What changes when you listen with your eyes closed?",
+        "url": "https://citiesandmemory.com/what-is-cities-and-memory-about/",
+        "source": "Cities and Memory"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://citiesandmemory.com/what-is-cities-and-memory-about/"
+      ],
+      "hash": "1d589a06ac07602deed3866344bf2dc385e4fae45381b705217942b6b3297e93",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://citiesandmemory.com/what-is-cities-and-memory-about/"
+      ]
+    },
+    {
+      "id": "idea:winderen",
+      "name": "Jana Winderen",
+      "kind": "Website idea",
+      "copy": {
+        "id": "winderen",
+        "name": "Jana Winderen",
+        "title": "Listen inside a frozen landscape",
+        "category": "Sound",
+        "theme": "Senses",
+        "icon": "wave",
+        "color": "blue",
+        "maker": "Jana Winderen",
+        "year": "Energy Field · 2010",
+        "description": "Energy Field layers recordings from glacier crevasses, fjords, and the open ocean, captured on trips to Greenland, Norway, and the Barents Sea.",
+        "why": "Sound offers a way to encounter environments and animal activity that ordinary photographs cannot convey.",
+        "prompt": "What could listening reveal about somewhere you think you already know?",
+        "url": "https://www.janawinderen.com/releases/energy-field",
+        "source": "Jana Winderen"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.janawinderen.com/releases/energy-field"
+      ],
+      "hash": "3773579366d57297650fe8d6604fabb52754e143a520880291dacf2ace03b99b",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.janawinderen.com/releases/energy-field"
+      ]
+    },
+    {
+      "id": "idea:ruefle",
+      "name": "Mary Ruefle",
+      "kind": "Website idea",
+      "copy": {
+        "id": "ruefle",
+        "name": "Mary Ruefle",
+        "title": "New poems from erased pages",
+        "category": "Art",
+        "theme": "Expression",
+        "icon": "book",
+        "color": "pink",
+        "maker": "Mary Ruefle",
+        "year": "Ongoing practice",
+        "description": "Ruefle covers words in old books with correction fluid, paint, and collage. The remaining fragments form new poems. A selection appeared in The Paris Review in 2025.",
+        "why": "Removing material can create new meaning. Editing becomes a visible creative act.",
+        "prompt": "What happens if you keep only ten words from a page?",
+        "url": "https://www.theparisreview.org/blog/2025/08/12/erasure-notebooks/",
+        "source": "The Paris Review"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.theparisreview.org/blog/2025/08/12/erasure-notebooks/"
+      ],
+      "hash": "0307529e348fa020c87f00f51bc82423a85db01d0effe79b94bf44be4ea820a3",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Link needs checking: https://www.theparisreview.org/blog/2025/08/12/erasure-notebooks/"
+      ]
+    },
+    {
+      "id": "idea:holosonics",
+      "name": "Audio Spotlight",
+      "kind": "Website idea",
+      "copy": {
+        "id": "holosonics",
+        "name": "Audio Spotlight",
+        "title": "Sound you can step into",
+        "category": "Technology",
+        "theme": "Senses",
+        "icon": "wave",
+        "color": "yellow",
+        "maker": "Holosonics",
+        "year": "Established technology",
+        "description": "Directional speakers use ultrasound to create focused listening areas. Audio can be directed toward a particular part of a room.",
+        "why": "Sound can create a boundary or a private moment without a physical partition.",
+        "prompt": "Where would a small, focused listening area be useful?",
+        "url": "https://www.holosonics.com/",
+        "source": "Holosonics"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.holosonics.com/"
+      ],
+      "hash": "b6fc059c0dd3b02f937fb63e49665268cb916aab4d831535088453e3389038f5",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.holosonics.com/"
+      ]
+    },
+    {
+      "id": "idea:ghost",
+      "name": "A Ghost Story",
+      "kind": "Website idea",
+      "copy": {
+        "id": "ghost",
+        "name": "A Ghost Story",
+        "title": "A film about home, time, and attachment",
+        "category": "Film",
+        "theme": "Memory",
+        "icon": "house",
+        "color": "blue",
+        "maker": "David Lowery",
+        "year": "2017",
+        "description": "A ghost returns to the house he shared with his partner. The film explores love, grief, and the passing of time through a place and its changing inhabitants.",
+        "why": "It offers an emotional reference for thinking about the attachments that remain when people and surroundings change.",
+        "prompt": "Which detail makes a place feel like home to you?",
+        "url": "https://a24films.com/films/a-ghost-story",
+        "source": "A24"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://a24films.com/films/a-ghost-story"
+      ],
+      "hash": "18169e6cf7c975bba1fbd3f32d72d5a1faddd51512e64a3db8876f2b3e154d1b",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://a24films.com/films/a-ghost-story"
+      ]
+    },
+    {
+      "id": "idea:cosmos",
+      "name": "Cosmos",
+      "kind": "Website idea",
+      "copy": {
+        "id": "cosmos",
+        "name": "Cosmos",
+        "title": "A place for your visual inspiration",
+        "category": "Apps",
+        "theme": "Expression",
+        "icon": "collage",
+        "color": "pink",
+        "maker": "Andy McCune & Luca Marra",
+        "year": "Ongoing",
+        "description": "Collect images, videos, links, and notes into visual collections. Explore related references and search by color or visual similarity.",
+        "why": "Things you collect can reveal connections in your taste before you have the words to describe them.",
+        "prompt": "Collect five images from different fields that seem to belong together.",
+        "url": "https://www.cosmos.so/",
+        "source": "Cosmos"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.cosmos.so/"
+      ],
+      "hash": "bb1cce3ccdbe11d40d2604d40f1a7258913afdcaf16fb6552365669c85a437cd",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.cosmos.so/"
+      ]
+    },
+    {
+      "id": "idea:whering",
+      "name": "Whering",
+      "kind": "Website idea",
+      "copy": {
+        "id": "whering",
+        "name": "Whering",
+        "title": "New outfits from clothes you own",
+        "category": "Apps",
+        "theme": "Expression",
+        "icon": "shirt",
+        "color": "yellow",
+        "maker": "Bianca Rangecroft & the Whering team",
+        "year": "Ongoing",
+        "description": "Digitize your clothes, plan outfits, receive styling suggestions, and explore friends’ wardrobes. The app helps you see more possibilities in the things you own.",
+        "why": "Software can help people get more value and enjoyment from existing possessions.",
+        "prompt": "What could you combine differently instead of buying something new?",
+        "url": "https://whering.co.uk/",
+        "source": "Whering"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://whering.co.uk/"
+      ],
+      "hash": "68c2c82d93c6335859f4d1bedefa02640ea1ffd2fe88758c5947e9c724970491",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://whering.co.uk/"
+      ]
+    },
+    {
+      "id": "idea:airbuds",
+      "name": "Airbuds",
+      "kind": "Website idea",
+      "copy": {
+        "id": "airbuds",
+        "name": "Airbuds",
+        "title": "Keep up through the music you play",
+        "category": "Apps",
+        "theme": "Connection",
+        "icon": "wave",
+        "color": "green",
+        "maker": "Airbuds",
+        "year": "Ongoing",
+        "description": "A widget lets friends share their listening activity and react to one another’s music.",
+        "why": "An everyday habit becomes a lightweight way of feeling connected, even without a conversation.",
+        "prompt": "What song would tell a friend something about your day?",
+        "url": "https://apps.apple.com/us/app/airbuds-widget/id1638906106",
+        "source": "App Store"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://apps.apple.com/us/app/airbuds-widget/id1638906106"
+      ],
+      "hash": "75bc55d126f1530e2ae496458c93101c46b07f85c1507157fe804ec7bb83b965",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://apps.apple.com/us/app/airbuds-widget/id1638906106"
+      ]
+    },
+    {
+      "id": "idea:soundmap",
+      "name": "Soundmap",
+      "kind": "Website idea",
+      "copy": {
+        "id": "soundmap",
+        "name": "Soundmap",
+        "title": "Collect music as you explore",
+        "category": "Apps",
+        "theme": "Connection",
+        "icon": "map",
+        "color": "blue",
+        "maker": "Soundmap",
+        "year": "First version 2024",
+        "description": "Walk around to collect songs at map locations, trade with other fans, and build in-game collections. Collecting a song does not give ownership of music rights.",
+        "why": "The rituals of collecting and exchanging music become a digital game connected to physical movement.",
+        "prompt": "What familiar hobby could encourage people to explore their surroundings?",
+        "url": "https://apps.apple.com/gb/app/soundmap-music-collecting/id6476420863",
+        "source": "App Store"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://apps.apple.com/gb/app/soundmap-music-collecting/id6476420863"
+      ],
+      "hash": "67646326acb2a4fc8a91e0cdd0eb9fe67792ca8473b4c95a01fb0f560c8a8637",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://apps.apple.com/gb/app/soundmap-music-collecting/id6476420863"
+      ]
+    },
+    {
+      "id": "idea:timeleft",
+      "name": "Timeleft",
+      "kind": "Website idea",
+      "copy": {
+        "id": "timeleft",
+        "name": "Timeleft",
+        "title": "Meet new people over dinner",
+        "category": "Apps",
+        "theme": "Connection",
+        "icon": "table",
+        "color": "pink",
+        "maker": "Timeleft",
+        "year": "Ongoing",
+        "description": "The service matches people for gatherings and handles venues and logistics. Its dinner format brings a person together with five new faces.",
+        "why": "Technology can arrange the conditions for a relationship to begin in the physical world.",
+        "prompt": "What small gathering would help people in your community feel welcome?",
+        "url": "https://timeleft.com/",
+        "source": "Timeleft"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://timeleft.com/"
+      ],
+      "hash": "bb958436110dedc8f94e521a65701da6f54be7add683c50b608e3b32783d4d3f",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://timeleft.com/"
+      ]
+    },
+    {
+      "id": "idea:polycam",
+      "name": "Polycam",
+      "kind": "Website idea",
+      "copy": {
+        "id": "polycam",
+        "name": "Polycam",
+        "title": "Turn a room into a 3D capture",
+        "category": "Technology",
+        "theme": "Memory",
+        "icon": "house",
+        "color": "green",
+        "maker": "Polycam",
+        "year": "Ongoing",
+        "description": "Tools for capturing objects and spaces as digital 3D models, floor plans, and virtual walkthroughs.",
+        "why": "A physical space becomes something you can explore and share remotely. It preserves spatial relationships as well as appearances.",
+        "prompt": "Which space would you want to capture before it changes?",
+        "url": "https://poly.cam/",
+        "source": "Polycam"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://poly.cam/"
+      ],
+      "hash": "1c35d1e26adad07ea1ecb39c565187e5c6274c4993340d24030f85c430dc6e6c",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://poly.cam/"
+      ]
+    },
+    {
+      "id": "idea:mymind",
+      "name": "mymind",
+      "kind": "Website idea",
+      "copy": {
+        "id": "mymind",
+        "name": "mymind",
+        "title": "Find the things you meant to remember",
+        "category": "Apps",
+        "theme": "Memory",
+        "icon": "collage",
+        "color": "yellow",
+        "maker": "mymind",
+        "year": "Ongoing",
+        "description": "A private place for notes, bookmarks, images, and articles, with associative search using details such as color, keywords, or brands.",
+        "why": "An archive can work with partial recollections and associations rather than require a perfect filing system.",
+        "prompt": "How would you describe something you remember visually but cannot name?",
+        "url": "https://mymind.com/",
+        "source": "mymind"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://mymind.com/"
+      ],
+      "hash": "8c601c38b7e4d5332e5c2fa5e7f25da88ee72c699d8593a0dac61072e18bed77",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://mymind.com/"
+      ]
+    },
+    {
+      "id": "idea:mantel",
+      "name": "Mantel",
+      "kind": "Website idea",
+      "copy": {
+        "id": "mantel",
+        "name": "Mantel",
+        "title": "Bring scattered memories together",
+        "category": "Apps",
+        "theme": "Memory",
+        "icon": "collage",
+        "color": "pink",
+        "maker": "Isabella Serrano Martinez & Aekta Shah van Dijk",
+        "year": "Emerging platform",
+        "description": "Mantel describes a memory platform that combines personal media such as photos, locations, and calendars, using AI to compose moments for reflection and sharing.",
+        "why": "The story of a day can live across several formats. Bringing them together can make it easier to revisit.",
+        "prompt": "Which three different traces would tell the story of yesterday?",
+        "url": "https://www.mantelmoments.com/the-platform",
+        "source": "Mantel"
+      },
+      "factual": [
+        "name",
+        "title",
+        "maker",
+        "year",
+        "description",
+        "url",
+        "source"
+      ],
+      "interpretive": [
+        "why",
+        "prompt"
+      ],
+      "urls": [
+        "https://www.mantelmoments.com/the-platform"
+      ],
+      "hash": "a31a639cc60b15e6cc3d70f08b7b13146c9368891a9b107d51923d9ae43ae3ae",
+      "review": {
+        "hash": "a31a639cc60b15e6cc3d70f08b7b13146c9368891a9b107d51923d9ae43ae3ae",
+        "fields": {
+          "description": {
+            "verdict": "unverified",
+            "note": "The web index returned a platform description with a waitlist, but the direct live request did not succeed. Reopen the current live site before approving wording or availability. Cached material is not sufficient evidence of current status.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": [
+              "https://www.mantelmoments.com/the-platform"
+            ]
+          }
+        },
+        "interpretationNote": "Editorial interpretation still needs proofreading.",
+        "sourceHashes": {}
+      },
+      "blockers": [
+        "Dana’s proofreading approval is missing.",
+        "name: needs a current source-to-copy comparison.",
+        "title: needs a current source-to-copy comparison.",
+        "maker: needs a current source-to-copy comparison.",
+        "year: needs a current source-to-copy comparison.",
+        "description: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "source: needs a current source-to-copy comparison.",
+        "Link needs checking: https://www.mantelmoments.com/the-platform",
+        "Confirm redirected destination: https://www.mantelmoments.com/the-platform"
+      ]
+    },
+    {
+      "id": "place:blur",
+      "name": "Yverdon-les-Bains",
+      "kind": "Map entry",
+      "copy": {
+        "id": "blur",
+        "name": "Yverdon-les-Bains",
+        "country": "Switzerland",
+        "label": "Former pavilion · 2002",
+        "note": "The site of the Swiss Expo Blur Building, on Lake Neuchâtel. The pavilion was temporary and has been dismantled.",
+        "x": 57,
+        "y": 53,
+        "lat": 46.78,
+        "lon": 6.64
+      },
+      "factual": [
+        "name",
+        "country",
+        "label",
+        "note",
+        "lat",
+        "lon"
+      ],
+      "interpretive": [],
+      "urls": [
+        "https://dsrny.com/project/blur-building",
+        "https://www.openstreetmap.org/?mlat=46.78&mlon=6.64#map=4/46.78/6.64"
+      ],
+      "hash": "9c01cb2d23ff1b9a0e4def58b704f9b0b8b6ff845b2e99aa451b02ad9e7408c1",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "name: needs a current source-to-copy comparison.",
+        "country: needs a current source-to-copy comparison.",
+        "label: needs a current source-to-copy comparison.",
+        "note: needs a current source-to-copy comparison.",
+        "lat: needs a current source-to-copy comparison.",
+        "lon: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://dsrny.com/project/blur-building",
+        "Source version has not been accepted: https://www.openstreetmap.org/?mlat=46.78&mlon=6.64#map=4/46.78/6.64"
+      ]
+    },
+    {
+      "id": "place:labyrinth",
+      "name": "Paris",
+      "kind": "Map entry",
+      "copy": {
+        "id": "labyrinth",
+        "name": "Paris",
+        "country": "France",
+        "label": "Past exhibition · 2005",
+        "note": "Centre Pompidou hosted the first exhibition of Jeppe Hein’s Invisible Labyrinth. This pin documents that exhibition, not a current installation.",
+        "x": 47,
+        "y": 43,
+        "lat": 48.86,
+        "lon": 2.35
+      },
+      "factual": [
+        "name",
+        "country",
+        "label",
+        "note",
+        "lat",
+        "lon"
+      ],
+      "interpretive": [],
+      "urls": [
+        "https://www.jeppehein.net/project_id.php?id=125&path=works",
+        "https://www.openstreetmap.org/?mlat=48.86&mlon=2.35#map=4/48.86/2.35"
+      ],
+      "hash": "46316d0315fad98ca721e7192441af7046dc830e3ec20822079195809dd2b376",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "name: needs a current source-to-copy comparison.",
+        "country: needs a current source-to-copy comparison.",
+        "label: needs a current source-to-copy comparison.",
+        "note: needs a current source-to-copy comparison.",
+        "lat: needs a current source-to-copy comparison.",
+        "lon: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.jeppehein.net/project_id.php?id=125&path=works",
+        "Source version has not been accepted: https://www.openstreetmap.org/?mlat=48.86&mlon=2.35#map=4/48.86/2.35"
+      ]
+    },
+    {
+      "id": "place:winderen",
+      "name": "Greenland",
+      "kind": "Map entry",
+      "copy": {
+        "id": "winderen",
+        "name": "Greenland",
+        "country": "Recording region",
+        "label": "Field recordings · released 2010",
+        "note": "One of the regions recorded for Energy Field. The pin is regional, not an exact recording site or a visitor destination.",
+        "x": 18,
+        "y": 17,
+        "lat": 72,
+        "lon": -40
+      },
+      "factual": [
+        "name",
+        "country",
+        "label",
+        "note",
+        "lat",
+        "lon"
+      ],
+      "interpretive": [],
+      "urls": [
+        "https://www.janawinderen.com/releases/energy-field",
+        "https://www.openstreetmap.org/?mlat=72&mlon=-40#map=4/72/-40"
+      ],
+      "hash": "fb623bd31da8b2f72cadf7a7bc1e4e25343ffc5b9018f006234e4890136ca0c6",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "name: needs a current source-to-copy comparison.",
+        "country: needs a current source-to-copy comparison.",
+        "label: needs a current source-to-copy comparison.",
+        "note: needs a current source-to-copy comparison.",
+        "lat: needs a current source-to-copy comparison.",
+        "lon: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://www.janawinderen.com/releases/energy-field",
+        "Source version has not been accepted: https://www.openstreetmap.org/?mlat=72&mlon=-40#map=4/72/-40"
+      ]
+    },
+    {
+      "id": "candidate:daylight",
+      "name": "Daylight",
+      "kind": "Candidate",
+      "copy": {
+        "id": "daylight",
+        "name": "Daylight",
+        "url": "https://daylightcomputer.com/",
+        "category": "Computing / attention",
+        "summary": "A tablet with a paper-like display for reading, writing and using apps.",
+        "audience": "Readers and people who want a calmer place to write or take notes.",
+        "technology": "A reflective display designed for fluid interaction and use in sunlight.",
+        "why": "It asks how the physical qualities of a screen can change the feeling of using a computer. A useful reference for Commonwealth's paper-inspired interface.",
+        "freshness": "New to Commonwealth, not a newly launched product. The maker's page includes reactions dated May 2024.",
+        "caveat": "Product features are described by the manufacturer; health and attention benefits are not independently established here.",
+        "checkedAt": "2026-09-21",
+        "status": "pending",
+        "sources": [
+          {
+            "title": "Daylight — product and company",
+            "url": "https://daylightcomputer.com/",
+            "primary": true,
+            "evidence": "Describes a paper-like display, reading, writing, app support and sunlight use."
+          }
+        ],
+        "decisions": []
+      },
+      "factual": [
+        "name",
+        "summary",
+        "audience",
+        "technology",
+        "freshness",
+        "caveat",
+        "url"
+      ],
+      "interpretive": [
+        "why"
+      ],
+      "urls": [
+        "https://daylightcomputer.com/"
+      ],
+      "hash": "2e2e5c4f98a85016f7d1fba82a96f57798f3289bba383243e27a10173358ee59",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "summary: needs a current source-to-copy comparison.",
+        "audience: needs a current source-to-copy comparison.",
+        "technology: needs a current source-to-copy comparison.",
+        "freshness: needs a current source-to-copy comparison.",
+        "caveat: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://daylightcomputer.com/"
+      ]
+    },
+    {
+      "id": "candidate:looking-glass-go",
+      "name": "Looking Glass Go",
+      "kind": "Candidate",
+      "copy": {
+        "id": "looking-glass-go",
+        "name": "Looking Glass Go",
+        "url": "https://lookingglassfactory.com/",
+        "category": "Displays / memory",
+        "summary": "A portable display for viewing 3D memories and creative work without a headset.",
+        "audience": "People displaying personal images and creators experimenting with spatial imagery.",
+        "technology": "Light-field display technology presents multiple perspectives so digital images can appear to have depth.",
+        "why": "It gives a digital memory a physical place in a room. It could inspire us to think about how saved ideas are displayed and revisited.",
+        "freshness": "New to Commonwealth; this run did not verify a launch date.",
+        "caveat": "Go is distinct from the company's newer large-format displays. The maker says Go has no included battery; portable does not mean cordless.",
+        "checkedAt": "2026-09-21",
+        "status": "pending",
+        "sources": [
+          {
+            "title": "Looking Glass — Go and light-field displays",
+            "url": "https://lookingglassfactory.com/",
+            "primary": true,
+            "evidence": "Describes Go, headset-free viewing and light-field perspectives; its FAQ says a battery is not included."
+          }
+        ],
+        "decisions": []
+      },
+      "factual": [
+        "name",
+        "summary",
+        "audience",
+        "technology",
+        "freshness",
+        "caveat",
+        "url"
+      ],
+      "interpretive": [
+        "why"
+      ],
+      "urls": [
+        "https://lookingglassfactory.com/"
+      ],
+      "hash": "d5854a22f6444b137be5fc802876bb967518c8874e7d5200e2bc0c4c44086438",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "summary: needs a current source-to-copy comparison.",
+        "audience: needs a current source-to-copy comparison.",
+        "technology: needs a current source-to-copy comparison.",
+        "freshness: needs a current source-to-copy comparison.",
+        "caveat: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://lookingglassfactory.com/"
+      ]
+    },
+    {
+      "id": "candidate:playdate",
+      "name": "Playdate",
+      "kind": "Candidate",
+      "copy": {
+        "id": "playdate",
+        "name": "Playdate",
+        "url": "https://play.date/",
+        "category": "Games / physical interaction",
+        "summary": "A pocket game console with a hand crank that controls actions in some games.",
+        "audience": "Players and independent developers interested in unusual, small-scale games.",
+        "technology": "Digital games respond to an analog crank alongside conventional buttons.",
+        "why": "A simple physical gesture becomes a creative constraint. It is a strong reference for making Commonwealth's tear-off interaction feel purposeful.",
+        "freshness": "An established reference newly added to our research queue, not presented as a recent startup.",
+        "caveat": "The crank is a controller, not a charger, and not every game uses it. This is the first pipeline calibration batch, not a roundup of new launches.",
+        "checkedAt": "2026-09-21",
+        "status": "pending",
+        "sources": [
+          {
+            "title": "Playdate — system and crank",
+            "url": "https://play.date/",
+            "primary": true,
+            "evidence": "Describes the crank as an analog controller and credits Teenage Engineering for the hardware design collaboration."
+          }
+        ],
+        "decisions": []
+      },
+      "factual": [
+        "name",
+        "summary",
+        "audience",
+        "technology",
+        "freshness",
+        "caveat",
+        "url"
+      ],
+      "interpretive": [
+        "why"
+      ],
+      "urls": [
+        "https://play.date/"
+      ],
+      "hash": "c4ab46c665e559c632d8c8386452387413bf96478b2670bb2a713da0444866bb",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "Check that interpretation and prompts do not imply unsupported facts.",
+        "name: needs a current source-to-copy comparison.",
+        "summary: needs a current source-to-copy comparison.",
+        "audience: needs a current source-to-copy comparison.",
+        "technology: needs a current source-to-copy comparison.",
+        "freshness: needs a current source-to-copy comparison.",
+        "caveat: needs a current source-to-copy comparison.",
+        "url: needs a current source-to-copy comparison.",
+        "Source version has not been accepted: https://play.date/"
+      ]
+    },
+    {
+      "id": "page:index.html",
+      "name": "index.html",
+      "kind": "Website template",
+      "copy": {
+        "content": "<!doctype html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n<meta name=\"description\" content=\"Explore ideas worth making something of. A weekly collection of creative projects, new businesses, and unexpected discoveries.\">\n<meta name=\"theme-color\" content=\"#f3efe5\"><title>Commonwealth — Ideas worth sharing</title>\n<link rel=\"icon\" href=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='5' fill='%23ead16e'/%3E%3Ctext x='8' y='30' font-family='Georgia' font-size='32'%3Ec%3C/text%3E%3C/svg%3E\">\n<link rel=\"stylesheet\" href=\"styles.css\"><link rel=\"stylesheet\" href=\"about.css\"><script src=\"data.js\" defer></script><script src=\"app.js\" defer></script><script src=\"about.js\" defer></script></head>\n<body>\n<a class=\"skip\" href=\"#main\">Skip to content</a>\n<div class=\"site-shell\">\n<header><a class=\"wordmark\" href=\"#ideas\" aria-label=\"Commonwealth home\">commonwealth<span class=\"brand-star\">✳</span></a><nav aria-label=\"Main navigation\"><a href=\"#ideas\" data-route=\"ideas\">Explore ideas</a><a href=\"#places\" data-route=\"places\">Places</a><a href=\"#saved\" data-route=\"saved\">Saved ideas <span id=\"saved-count\">0</span></a><a href=\"#about\" data-route=\"about\">About</a></nav><span class=\"header-note\">A little curiosity goes a long way.</span></header>\n<main id=\"main\" tabindex=\"-1\"></main>\n<footer><a class=\"wordmark small\" href=\"#ideas\">commonwealth<span>✳</span></a><p>Ideas worth sharing. Possibilities worth exploring.</p><span><a href=\"#about\">About the collection</a> · Edition 001</span></footer>\n</div>\n<dialog id=\"idea-dialog\" aria-labelledby=\"detail-title\"><button class=\"close-dialog\" aria-label=\"Close project details\">×</button><div id=\"detail-content\"></div></dialog>\n<div id=\"toast\" role=\"status\" aria-live=\"polite\"></div>\n</body></html>\n"
+      },
+      "factual": [
+        "content"
+      ],
+      "interpretive": [],
+      "urls": [],
+      "hash": "ec3ffc905d04c9510ccc1eb84701bfa04b20a778ae8fcaa47f11dedc10b57457",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "content: needs a current source-to-copy comparison."
+      ]
+    },
+    {
+      "id": "page:about.js",
+      "name": "about.js",
+      "kind": "Website template",
+      "copy": {
+        "content": "(function(){\n  const main=document.querySelector('main');\n  function renderAbout(){\n    main.innerHTML=`<section class=\"manifesto-hero\"><span class=\"eyebrow\">About Commonwealth</span><h1>Make something<br><em>of what you notice.</em></h1><p>Commonwealth is a weekly collection of ideas for people who are curious about how the world can be made, remade, and felt differently.</p></section><section class=\"manifesto-body\"><div class=\"manifesto-lead\"><span class=\"eyebrow\">A small manifesto</span><h2>We believe an idea is not finished when it is understood.</h2><p>It is finished when it gives someone a way to begin.</p></div><div class=\"manifesto-principles\"><article><span>01</span><h3>Look closer.</h3><p>The most useful ideas often start with a small observation: a scent, a habit, a room, a place, a sound. We collect work that makes the overlooked easier to notice.</p></article><article><span>02</span><h3>Move between fields.</h3><p>Fashion can borrow from space technology. A map can hold friendship. A family story can become a book. We are interested in the paths between disciplines.</p></article><article><span>03</span><h3>Keep the language clear.</h3><p>Wonder does not need vagueness. Every idea here tells you what it is, who made it, and why it might matter.</p></article><article><span>04</span><h3>Make room for the small.</h3><p>Not every project needs to become a platform. A useful object, a beautiful experiment, or a new way to gather people can be enough.</p></article><article><span>05</span><h3>Pass it on.</h3><p>Commonwealth is meant to be shared. Take an idea, send it to someone, adapt it, or make a version that belongs to you.</p></article><article><span>06</span><h3>Stay unfinished.</h3><p>This is a living collection. The point is not to close the question, but to keep finding better ones.</p></article></div></section><section class=\"manifesto-invite\"><span class=\"eyebrow\">Bring us something</span><h2>What are you noticing?</h2><p>We are looking for small companies, artists, tools, places, and experiments that help people experience the world in a new way.</p><a class=\"button\" href=\"mailto:hello@commonwealth.ideas?subject=An%20idea%20for%20Commonwealth\">Share an idea ↗</a></section>`;\n    document.title='Commonwealth — About';\n    document.querySelectorAll('[data-route]').forEach(a=>a.classList.toggle('active',a.dataset.route==='about'));\n    window.scrollTo(0,0);\n  }\n  function maybe(){if(location.hash==='#about')renderAbout();}\n  window.addEventListener('hashchange',maybe); maybe();\n})();\n"
+      },
+      "factual": [
+        "content"
+      ],
+      "interpretive": [],
+      "urls": [],
+      "hash": "e363fe27087ddd60124d3999952c27ddf7cf18753af0ba1cf751228c0eb0aeac",
+      "review": {
+        "hash": "e363fe27087ddd60124d3999952c27ddf7cf18753af0ba1cf751228c0eb0aeac",
+        "fields": {
+          "content": {
+            "verdict": "needs-change",
+            "note": "The template includes hello@commonwealth.ideas, an address Dana has not supplied or verified. Replace it with an approved contact route before publication. Also review the weekly-publication promise separately from the weekly research schedule.",
+            "reviewer": "Codex",
+            "checkedAt": "2026-09-21T16:45:52.180Z",
+            "sources": []
+          }
+        },
+        "interpretationNote": "Editorial interpretation still needs proofreading.",
+        "sourceHashes": {}
+      },
+      "blockers": [
+        "Dana’s proofreading approval is missing.",
+        "content: needs a current source-to-copy comparison."
+      ]
+    },
+    {
+      "id": "page:app.js",
+      "name": "app.js",
+      "kind": "Website template",
+      "copy": {
+        "content": "'use strict';\nconst main = document.querySelector('main');\nconst dialog = document.querySelector('dialog');\nconst validIds = new Set(IDEAS.map(i=>i.id));\nlet saved = new Set(), explored = new Set(), storageAvailable = true;\ntry { const raw = JSON.parse(localStorage.getItem('commonwealth-saved') || '[]'); if(Array.isArray(raw)) saved = new Set(raw.filter(id=>validIds.has(id))); } catch { storageAvailable = false; }\nlet currentRoute = '', currentIdea = null, filter = 'All', query = '', tearTimer = null, toastTimer = null;\nconst esc = s=>String(s).replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',\"'\":'&#39;'}[c]));\nconst artPaths = {\n bag:`<path d=\"M68 120C67 91 84 34 124 22c22-6 41 7 48 28 6 18 1 39 5 56 4 22 24 44 15 61-13 23-101 26-123 5-11-11-7-30-1-52Z\"/><path d=\"M92 104c-7-15 15-59 34-65 25-8 40 17 34 39-7 21-50 46-68 26Z\"/><path d=\"M70 131c31 28 88 12 109-6M70 156c41 21 86 9 114-12M84 119c-3 19-3 41 1 55M161 109c13 23 13 43 7 65\" opacity=\".35\"/><path d=\"m64 185 129-3\" opacity=\".25\"/>`,\n map:`<path d=\"m40 60 51-17 53 18 55-18v110l-53 20-55-20-51 20Z\"/><path d=\"M91 43v110m53-92 2 112M41 100l51-13 54 23 52-19M43 139l44-13 58 20 53-18\" opacity=\".45\"/><path d=\"M120 111s-31-29-31-52a31 31 0 0 1 62 0c0 23-31 52-31 52Z\" fill=\"#f6f0d9\"/><circle cx=\"120\" cy=\"58\" r=\"12\"/><path d=\"m63 71 10-4m94 64 12-5M109 136l15 6\"/>`,\n book:`<path d=\"m66 33 109 12 11 124-110 6-18-12Z\" fill=\"#f9f4e7\"/><path d=\"m66 33 10 125 110 11M76 158l-18 5m14-106 92 10m-90 2 86 10M88 105l58 6m-55 5 61 7m-62 6 43 6M76 173l-1-13\"/><path d=\"m152 46 2 30 9-7 9 10-4-31\"/><path d=\"m82 181 106-7\" opacity=\".25\"/>`,\n scent:`<path d=\"M96 60V35h44v25m-38-25V23h32v12M87 60h63v105q-31 19-63 0Z\" fill=\"#f9f4e7\"/><path d=\"M87 78q30 15 63 0M87 139q31 14 63 0\"/><rect x=\"99\" y=\"95\" width=\"38\" height=\"30\"/><path d=\"M63 117c-25-25 18-30-2-60m109 63c25-26-10-40 8-65m-7 97 25-31m-10 12c-5-20 14-30 17-22 4 9-17 22-17 22Zm-68 46V151\"/><path d=\"M77 182h83\" opacity=\".25\"/>`,\n cloud:`<path d=\"M44 116c-23-25-3-52 22-45 6-39 50-49 70-16 32-19 60 11 47 36 33 8 31 39 7 49H63c-20 0-31-8-19-24Z\"/><path d=\"M45 150h144M67 163h106M84 176h60M55 130c30-15 73-15 129-6\" opacity=\".5\"/>`,\n wave:`<path d=\"M31 100h178M42 80v40m13-54v68m13-85v103m13-123v143m13-97v51m13-36v21m13-71v120m13-149v160m13-121v100m13-73v52m13-27v10m13-45v76m13-55v31\"/>`,\n maze:`<path d=\"M49 164V42h151v123H77V68h98v71h-71V94h46v21h-21M49 138h-18M175 94h25M103 42v26M77 140H49M152 166v23\"/><circle cx=\"129\" cy=\"115\" r=\"4\" fill=\"currentColor\"/>`,\n house:`<path d=\"m41 86 76-54 82 57v78H41Z\"/><path d=\"m41 86 79 28 79-25m-79 25v68m-79-15 79 15 79-15M65 112v30l28 9v-30Zm79 14v31l31-7v-32ZM100 60l51 15m-3-31v-19h20v33\"/><path d=\"m29 179 84 17 99-17\" opacity=\".35\"/>`,\n collage:`<path d=\"m44 39 81 9-10 107-82-11Zm89 27 79-18 16 109-78 14Z\" fill=\"#f8f5ea\"/><path d=\"m60 101 18-31 18 34M145 120l20-37 28 49M58 121l36 4m65 26 36-8\"/><path d=\"m83 69 76 14-17 109-75-15Z\" fill=\"#f8f5ea\"/><path d=\"M111 159c-15-18-15-34 5-43 18 15 14 30-5 43Zm0 0-1 13M100 97l38 7\"/>`,\n shirt:`<path d=\"m93 39-36 10-29 41 33 20 15-20v84h91V90l16 20 30-20-27-41-35-10c-7 24-51 24-58 0Z\"/><path d=\"M94 39c3 11 14 19 28 19s25-8 29-19M82 158h77M53 67l-9 25m145-25 9 25\" opacity=\".5\"/>`,\n table:`<ellipse cx=\"120\" cy=\"93\" rx=\"79\" ry=\"33\"/><path d=\"M41 93v12c0 45 158 45 158 0V93M67 127v45m105-45v45M91 62V40m60 23V40M30 100H17v42m193-42h16v42M104 150v29m33-29v29\"/><ellipse cx=\"120\" cy=\"91\" rx=\"18\" ry=\"8\"/><path d=\"M72 83h12m72 20h14m-49-39v10m-10 35h14\"/>`\n};\nfunction art(type){return `<svg class=\"art\" viewBox=\"0 0 240 210\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\">${artPaths[type]||artPaths.collage}</svg>`;}\nfunction notify(message){const el=document.querySelector('#toast');el.textContent=message;el.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>el.classList.remove('show'),2600);}\nfunction updateSaved(){document.querySelector('#saved-count').textContent=saved.size;document.querySelectorAll('[data-save]').forEach(b=>{const on=saved.has(b.dataset.save);b.setAttribute('aria-pressed',on);b.setAttribute('aria-label',`${on?'Remove':'Save'} ${IDEAS.find(i=>i.id===b.dataset.save).name}${on?' from saved ideas':''}`);if(b.classList.contains('save'))b.textContent=on?'✓':'+';else b.textContent=on?'✓ Saved — remove':'＋ Save idea';});}\nfunction toggleSave(id){if(!validIds.has(id))return;const removing=saved.has(id);if(removing)saved.delete(id);else saved.add(id);try{localStorage.setItem('commonwealth-saved',JSON.stringify([...saved]));}catch{storageAvailable=false;}updateSaved();if(currentRoute==='saved')renderSaved();notify(storageAvailable?(removing?'Removed from your saved ideas':'Saved to your collection'):'Saved for this session only — browser storage is unavailable');}\nfunction card(i){return `<article class=\"idea-card ${i.color}\"><button class=\"card-open\" data-open=\"${i.id}\" aria-label=\"Explore ${esc(i.name)}: ${esc(i.title)}\"><div class=\"card-art\">${art(i.icon)}</div><span class=\"eyebrow\">${i.category} / ${i.theme}</span><h3>${esc(i.name)}</h3><p>${esc(i.title)}</p></button><button class=\"save\" data-save=\"${i.id}\" aria-pressed=\"${saved.has(i.id)}\" aria-label=\"Save ${esc(i.name)}\">${saved.has(i.id)?'✓':'+'}</button></article>`;}\nfunction renderHome(){main.innerHTML=`<section class=\"hero\"><div class=\"edition eyebrow\">The weekly collection <span>№ 001</span></div><h1>Explore this week’s ideas.</h1><p>New apps, creative projects, and businesses worth knowing about.</p><div class=\"pull-note handwritten\">Find something good.<br>Take a little piece.<span>↙</span></div></section><section class=\"board\" aria-label=\"This week's four featured ideas\"><div class=\"board-top\"><span>Four ideas. Plenty of possibilities.</span><span>Pull a tab ↓</span></div><div class=\"board-grid\">${IDEAS.slice(0,4).map((i,n)=>`<article class=\"notice ${i.color}\"><div class=\"art-panel\">${art(i.icon)}</div><button class=\"tab ${explored.has(i.id)?'taken':''}\" data-tear=\"${i.id}\" aria-label=\"Open ${esc(i.name)}: ${esc(i.title)}\"><span class=\"tab-no\">0${n+1} / ${i.category.toUpperCase()}</span><strong>${i.name}</strong><span class=\"tab-title\">${i.title}</span><span class=\"tab-arrow\">↗</span></button></article>`).join('')}</div></section><div class=\"board-caption\"><span>Drag to tear. Or simply tap to open.</span><span>Keep what catches your eye. Come back for more.</span></div><section class=\"feature-row\" aria-label=\"More ways to explore\"><a href=\"#places\" class=\"feature blue\"><span class=\"eyebrow\">Out in the world</span><h2>Explore places.</h2><p>Discover the places behind the projects, from Paris to Greenland.</p><span class=\"link-arrow\">Open the map ↗</span>${art('map')}</a><a href=\"#collection\" class=\"feature yellow\"><span class=\"eyebrow\">See where an idea takes you</span><h2>Follow your curiosity.</h2><p>Browse by interest. Find a connection. Keep a few favorites.</p><span class=\"link-arrow\">Explore the collection ↗</span>${art('collage')}</a></section><section id=\"collection\" class=\"library\"><div class=\"section-heading\"><div><span class=\"eyebrow\">A growing collection</span><h2>More to get curious about.</h2><p>Art, technology, and everyday ideas that open up possibilities.</p></div><label class=\"search\"><span aria-hidden=\"true\">⌕</span><input id=\"search\" type=\"search\" placeholder=\"Find an idea…\" aria-label=\"Search ideas\" value=\"${esc(query)}\"></label></div><div class=\"filters\" aria-label=\"Filter by theme\">${['All','Memory','Connection','Senses','Materials','Expression'].map(f=>`<button class=\"filter ${filter===f?'active':''}\" data-filter=\"${f}\" aria-pressed=\"${filter===f}\">${f}</button>`).join('')}</div><p class=\"count-label\" id=\"result-count\" role=\"status\"></p><div id=\"idea-grid\" class=\"idea-grid\"></div></section>`;renderGrid();bindTabs();document.querySelector('#search').addEventListener('input',e=>{query=e.target.value;renderGrid();});}\nfunction renderGrid(){let items=IDEAS.filter(i=>(filter==='All'||i.theme===filter)&&`${i.name} ${i.title} ${i.category} ${i.theme} ${i.description}`.toLowerCase().includes(query.toLowerCase().trim()));document.querySelector('#result-count').textContent=`${items.length} ${items.length===1?'idea':'ideas'} to explore`;document.querySelector('#idea-grid').innerHTML=items.length?items.map(card).join(''):`<div class=\"empty\"><h3>No ideas found this time.</h3><p>Try another word or choose a different theme.</p><button class=\"button\" data-reset>Show all ideas</button></div>`;updateSaved();}\nfunction renderSaved(){main.innerHTML=`<section class=\"page-title\"><span class=\"eyebrow\">Your own little collection</span><h1>Keep a little inspiration.</h1><p>The projects that caught your eye, all in one place.</p><p class=\"storage-note\">Saved in this browser${storageAvailable?'. No account needed.':' for this session only; persistent storage is unavailable.'}</p></section><section class=\"idea-grid saved-grid\" aria-label=\"Saved ideas\">${saved.size?IDEAS.filter(i=>saved.has(i.id)).map(card).join(''):`<div class=\"empty\"><h2>Something will catch your eye.</h2><p>Use the + on any idea to save it here. Start with this week’s collection.</p><a href=\"#ideas\" class=\"button\">Explore ideas ↗</a></div>`}</section>`;updateSaved();}\nfunction renderPlaces(){main.innerHTML=`<section class=\"page-title\"><span class=\"eyebrow\">Ideas have a place in the world</span><h1>Explore places.</h1><p>Find the settings behind the work. Our first three references look back at past installations and recording locations.</p></section><div class=\"places-layout\"><div class=\"atlas\" aria-label=\"Illustrated location overview\"><svg viewBox=\"0 0 600 520\" preserveAspectRatio=\"none\" fill=\"none\" aria-hidden=\"true\"><defs><pattern id=\"grid\" width=\"40\" height=\"40\" patternUnits=\"userSpaceOnUse\"><path d=\"M40 0H0v40\" stroke=\"#788f8622\"/></pattern></defs><rect width=\"600\" height=\"520\" fill=\"url(#grid)\"/><g fill=\"#f2f0dd\" stroke=\"#92a18b\" stroke-width=\"1.3\"><path d=\"m52 28 73-22 48 26-10 58-22 62-27 32-31-34-12-60Z\"/><path d=\"m340 11 23 21-7 42-23 52-11 45-30 31-23-20 22-52 20-56Z\"/><path d=\"m276 176 17 18 44 6 51-28 62-6 46 25 104-16v345H367l-23-65-45-53 14-35-34-25-9-39-40-24 9-25 25-21-12-30Z\"/><path d=\"m246 205-16-19-11 25 3 30 17 6 10-15ZM201 211l-13 13 3 31 17-9 2-21ZM179 80l18-8 21 15-12 12-25-4Z\"/></g><path d=\"m107 88 175 135 62 55\" stroke=\"#8a8d7299\" stroke-dasharray=\"4 7\"/><text x=\"48\" y=\"325\" font-family=\"Georgia\" font-size=\"17\" fill=\"#6e847c\" transform=\"rotate(-12 48 325)\">North Atlantic</text><text x=\"382\" y=\"333\" font-family=\"Georgia\" font-size=\"21\" fill=\"#7c856d\">Europe</text></svg>${PLACES.map((p,n)=>`<button class=\"map-pin ${n===0?'active':''}\" style=\"left:${p.x}%;top:${p.y}%\" data-place=\"${p.id}\" aria-label=\"Select ${p.name}\" aria-pressed=\"${n===0}\">${n+1}</button>`).join('')}<span class=\"map-caption\">Illustrated overview · not to scale · historical and regional references</span></div><div class=\"place-list\">${PLACES.map((p,n)=>`<article class=\"place-item ${n===0?'active':''}\" data-place-card=\"${p.id}\"><button class=\"place-select\" data-place=\"${p.id}\" aria-pressed=\"${n===0}\"><span class=\"eyebrow\">0${n+1} / ${p.country}</span><h3>${p.name}</h3><span class=\"eyebrow\">${p.label}</span></button><p>${p.note}</p><div class=\"place-links\"><button class=\"plain-link\" style=\"padding:0;background:none;text-decoration:underline\" data-open=\"${p.id}\">Explore the project ↗</button><a href=\"https://www.openstreetmap.org/?mlat=${p.lat}&mlon=${p.lon}#map=${p.id==='winderen'?4:12}/${p.lat}/${p.lon}\" target=\"_blank\" rel=\"noopener noreferrer\">View location ↗</a></div></article>`).join('')}</div></div>`;}\nfunction openIdea(id){const i=IDEAS.find(x=>x.id===id);if(!i)return;currentIdea=i;document.querySelector('#detail-content').innerHTML=`<div class=\"detail-art ${i.color}\">${art(i.icon)}</div><div class=\"detail-body\"><span class=\"eyebrow\">${i.category} / ${i.theme} / ${i.year}</span><h2 id=\"detail-title\">${i.name}</h2><p class=\"detail-subtitle\">${i.title}</p><div class=\"detail-row\"><strong>What it is</strong><p>${i.description}</p></div><div class=\"detail-row\"><strong>Who made it</strong><p>${i.maker}</p></div><div class=\"detail-row\"><strong>Why it’s interesting</strong><p>${i.why}</p></div><div class=\"try-prompt\"><span class=\"eyebrow\">Something to try</span>${i.prompt}</div><div class=\"detail-actions\"><a class=\"button\" href=\"${i.url}\" target=\"_blank\" rel=\"noopener noreferrer\">Visit project ↗</a><button class=\"button secondary\" data-save=\"${i.id}\" aria-pressed=\"${saved.has(i.id)}\">Save idea</button></div><p class=\"source-note\">Source: ${i.source} · Checked September 2026.<br>Connections and prompts are our editorial interpretation.</p></div>`;updateSaved();if(!dialog.open)dialog.showModal();document.body.classList.add('modal-open');dialog.scrollTop=0;}\nfunction tear(button){if(button.classList.contains('tearing'))return;const id=button.dataset.tear;explored.add(id);const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;if(reduced){openIdea(id);button.classList.add('taken');return;}button.style.transform='';button.classList.add('tearing');tearTimer=setTimeout(()=>{button.classList.remove('tearing');button.classList.add('taken');openIdea(id);tearTimer=null;},500);}\nfunction bindTabs(){document.querySelectorAll('[data-tear]').forEach(b=>{let start=null,delta=0,dragged=false;b.addEventListener('pointerdown',e=>{if(e.button!==0||b.classList.contains('tearing'))return;start={x:e.clientX,y:e.clientY};delta=0;dragged=false;b.setPointerCapture(e.pointerId);});b.addEventListener('pointermove',e=>{if(!start)return;delta=Math.max(0,e.clientY-start.y);if(delta>5){dragged=true;b.classList.add('dragging');const move=Math.min(delta,105);b.style.transform=`translateY(${move*.5}px) rotate(${Math.min(move*.045,5)}deg)`;}});b.addEventListener('pointerup',()=>{if(!start)return;start=null;b.classList.remove('dragging');b.style.transform='';if(delta>45)tear(b);});b.addEventListener('pointercancel',()=>{start=null;delta=0;dragged=false;b.classList.remove('dragging');b.style.transform='';});b.addEventListener('click',e=>{if(dragged){e.preventDefault();dragged=false;return;}tear(b);});});}\nfunction route(){if(tearTimer){clearTimeout(tearTimer);tearTimer=null;}if(dialog.open)dialog.close();const hash=location.hash.slice(1)||'ideas';currentRoute=['places','saved'].includes(hash)?hash:'ideas';document.querySelectorAll('[data-route]').forEach(a=>{const active=a.dataset.route===currentRoute;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current');});if(currentRoute==='places')renderPlaces();else if(currentRoute==='saved')renderSaved();else renderHome();document.title=`Commonwealth — ${currentRoute==='places'?'Explore places':currentRoute==='saved'?'Saved ideas':'Ideas worth sharing'}`;if(hash==='collection'){requestAnimationFrame(()=>document.querySelector('#collection').scrollIntoView());}else window.scrollTo(0,0);updateSaved();}\ndocument.addEventListener('click',e=>{const save=e.target.closest('[data-save]');if(save){toggleSave(save.dataset.save);return;}const open=e.target.closest('[data-open]');if(open){openIdea(open.dataset.open);return;}const f=e.target.closest('[data-filter]');if(f){filter=f.dataset.filter;document.querySelectorAll('[data-filter]').forEach(b=>{b.classList.toggle('active',b.dataset.filter===filter);b.setAttribute('aria-pressed',b.dataset.filter===filter);});renderGrid();return;}if(e.target.closest('[data-reset]')){filter='All';query='';renderHome();document.querySelector('#collection').scrollIntoView();return;}const p=e.target.closest('[data-place]');if(p){document.querySelectorAll('[data-place]').forEach(b=>{b.classList.toggle('active',b.dataset.place===p.dataset.place);b.setAttribute('aria-pressed',b.dataset.place===p.dataset.place);});document.querySelectorAll('[data-place-card]').forEach(b=>b.classList.toggle('active',b.dataset.placeCard===p.dataset.place));}});\ndocument.querySelector('.close-dialog').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});dialog.addEventListener('close',()=>{document.body.classList.remove('modal-open');currentIdea=null;});window.addEventListener('hashchange',route);window.addEventListener('storage',e=>{if(e.key==='commonwealth-saved'){try{const raw=JSON.parse(e.newValue||'[]');saved=new Set(Array.isArray(raw)?raw.filter(id=>validIds.has(id)):[]);if(currentRoute==='saved')renderSaved();else updateSaved();}catch{}}});route();\n"
+      },
+      "factual": [
+        "content"
+      ],
+      "interpretive": [],
+      "urls": [],
+      "hash": "0cb30c0068e4f6d5cecde77cc94bc0f0b35230f67ab53228e7fbcdbed8e71629",
+      "review": null,
+      "blockers": [
+        "Copy has not been reviewed at this exact version.",
+        "Dana’s proofreading approval is missing.",
+        "content: needs a current source-to-copy comparison."
+      ]
+    }
+  ],
+  "links": {
+    "https://www.corner.inc/guides": {
+      "checkedAt": "2026-09-21T16:42:47.788Z",
+      "state": "blocked",
+      "status": 429,
+      "finalUrl": "https://www.corner.inc/guides",
+      "redirected": false
+    },
+    "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it": {
+      "checkedAt": "2026-09-21T16:42:47.789Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.osmo.ai/blog/update-scent-teleportation-we-did-it",
+      "redirected": false,
+      "bodyHash": "d6d9be364ff2a34839562fe727f242c70a7e89f9ec6b719b8a79bd7012db157f",
+      "changed": false,
+      "title": "How we invented scent teleportation - Osmo"
+    },
+    "https://www.remento.co/how-it-works": {
+      "checkedAt": "2026-09-21T16:42:47.788Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.remento.co/how-it-works",
+      "redirected": false,
+      "bodyHash": "3646fd2092c77ea1d402cdfe9e263f5ddae2aab057a63e30823891ea0b3029b6",
+      "changed": false,
+      "title": "Remento I How it works"
+    },
+    "https://www.istitutomarangoni.com/en/maze35/design/the-coperni-can-revolution-whats-behind-the-99-air-swipe-bag": {
+      "checkedAt": "2026-09-21T16:42:47.748Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.istitutomarangoni.com/en/maze35/design/the-coperni-can-revolution-whats-behind-the-99-air-swipe-bag",
+      "redirected": false,
+      "bodyHash": "003d40f40fb293fce544102c4052cfca4c9c00f2e4e29dbcab3ccd6619bda957",
+      "changed": false,
+      "title": "The Coperni-can revolution: What’s behind the 99% Air Swipe bag? | ISTITUTO MARANGONI"
+    },
+    "https://dsrny.com/project/blur-building": {
+      "checkedAt": "2026-09-21T16:42:48.857Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://dsrny.com/project/blur-building",
+      "redirected": false,
+      "bodyHash": "53923002c4752835a86c0e21af33e8cfcd3de1ad7bb0b1ce1f714698fb9fc026",
+      "changed": false,
+      "title": "Blur Building"
+    },
+    "https://www.janawinderen.com/releases/energy-field": {
+      "checkedAt": "2026-09-21T16:42:48.861Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.janawinderen.com/releases/energy-field",
+      "redirected": false,
+      "bodyHash": "88a3338eabe51877d1c0d9dafbec8dcff426513b017b79ac7db5e79a94b7632a",
+      "changed": false,
+      "title": "Jana Winderen | Energy Field"
+    },
+    "https://www.jeppehein.net/project_id.php?id=125&path=works": {
+      "checkedAt": "2026-09-21T16:42:48.859Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.jeppehein.net/project_id.php?id=125&path=works",
+      "redirected": false,
+      "bodyHash": "394f4950a2e0b0ae15eead10a8549e2e4591f8da44e9186daad213f36561abb3",
+      "changed": false,
+      "title": "Jeppe Hein &ndash; Invisible Labyrinth"
+    },
+    "https://citiesandmemory.com/what-is-cities-and-memory-about/": {
+      "checkedAt": "2026-09-21T16:42:48.860Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://citiesandmemory.com/what-is-cities-and-memory-about/",
+      "redirected": false,
+      "bodyHash": "27644a4a1eb88fc72dde92892289cd0f7d80ff75e6ed44c955c7457fe4b27e29",
+      "changed": false,
+      "title": "What is Cities and Memory?"
+    },
+    "https://www.theparisreview.org/blog/2025/08/12/erasure-notebooks/": {
+      "checkedAt": "2026-09-21T16:42:51.091Z",
+      "state": "blocked",
+      "status": 403,
+      "finalUrl": "https://www.theparisreview.org/blog/2025/08/12/erasure-notebooks/",
+      "redirected": false
+    },
+    "https://www.holosonics.com/": {
+      "checkedAt": "2026-09-21T16:42:51.094Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.holosonics.com/",
+      "redirected": false,
+      "bodyHash": "406047664376f4b38747beca8068a7b0545fec6adbbcedb2568f09cbaf212cd9",
+      "changed": false,
+      "title": "Directional Speaker Technology | Audio Spotlight by Holosonics"
+    },
+    "https://a24films.com/films/a-ghost-story": {
+      "checkedAt": "2026-09-21T16:42:51.095Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://a24films.com/films/a-ghost-story",
+      "redirected": false,
+      "bodyHash": "19ccb27632ad1c4b44c9ce8f33fcf5c6701c968bcc6f4da60c0f74d66b1415ee",
+      "changed": false,
+      "title": "A Ghost Story | A24"
+    },
+    "https://www.cosmos.so/": {
+      "checkedAt": "2026-09-21T16:42:51.097Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.cosmos.so/",
+      "redirected": false,
+      "bodyHash": "15e25de0540f7552ed161dae57c446bb598b3fb95d56c4ac13a384370149ff77",
+      "changed": false,
+      "title": "Cosmos"
+    },
+    "https://timeleft.com/": {
+      "checkedAt": "2026-09-21T16:42:51.670Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://timeleft.com/",
+      "redirected": false,
+      "bodyHash": "a7db22eac637f5832de165cedad36330188a87f2d5e5b2f1bec1025ceb57d98e",
+      "changed": false,
+      "title": "Timeleft - Turn Strangers into Friends"
+    },
+    "https://apps.apple.com/gb/app/soundmap-music-collecting/id6476420863": {
+      "checkedAt": "2026-09-21T16:42:51.670Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/gb/app/soundmap-music-collecting/id6476420863",
+      "redirected": false,
+      "bodyHash": "878ba9430a4fee44f564241fc85b3c938c8c74dbfb461b0cda6c2e1f3759e477",
+      "changed": false,
+      "title": "‎Soundmap: Music Collecting App - App Store"
+    },
+    "https://apps.apple.com/us/app/airbuds-widget/id1638906106": {
+      "checkedAt": "2026-09-21T16:42:51.669Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://apps.apple.com/us/app/airbuds-widget/id1638906106",
+      "redirected": false,
+      "bodyHash": "76c95973715bc5b5d16fe251f05a7b5c9514d67cbd501fb803abdc00d3ce4228",
+      "changed": false,
+      "title": "‎Airbuds Widget App - App Store"
+    },
+    "https://whering.co.uk/": {
+      "checkedAt": "2026-09-21T16:42:51.667Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://whering.co.uk/",
+      "redirected": false,
+      "bodyHash": "6dd7f5b1dcb7b5a246a5498cba3845979d898d9826157862992b16f1380665df",
+      "changed": false,
+      "title": "Whering | The Social Wardrobe &amp; Styling App – Whering"
+    },
+    "https://mymind.com/": {
+      "checkedAt": "2026-09-21T16:42:52.999Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://mymind.com/",
+      "redirected": false,
+      "bodyHash": "bf48947b167d4a51dc3daaa29dd8880b3308182671faea487f70601bb4cab82c",
+      "changed": false,
+      "title": "mymind is the extension for your mind."
+    },
+    "https://poly.cam/": {
+      "checkedAt": "2026-09-21T16:42:52.998Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://poly.cam/",
+      "redirected": false,
+      "bodyHash": "274129a0b2325e1946439950da9023182e47c0bffbab87f2dbf4257579ccdcd2",
+      "changed": false,
+      "title": "Polycam — AI 3D Scanning, Floor Plans &amp; Reality Capture for Teams"
+    },
+    "https://www.mantelmoments.com/the-platform": {
+      "checkedAt": "2026-09-21T16:42:53.000Z",
+      "state": "unavailable",
+      "status": 404,
+      "finalUrl": "https://mantelmoments.com/the-platform",
+      "redirected": true
+    },
+    "https://www.openstreetmap.org/?mlat=46.78&mlon=6.64#map=4/46.78/6.64": {
+      "checkedAt": "2026-09-21T16:42:53.001Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.openstreetmap.org/?mlat=46.78&mlon=6.64#map=4/46.78/6.64",
+      "redirected": false,
+      "bodyHash": "d84604ef20bc9177ac4209d71e55f00443fca80b4518572c17fcbfa8216889af",
+      "changed": false,
+      "title": "OpenStreetMap"
+    },
+    "https://lookingglassfactory.com/": {
+      "checkedAt": "2026-09-21T16:42:53.772Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://lookingglassfactory.com/",
+      "redirected": false,
+      "bodyHash": "1e959b4d257c5b7907897cdbc22aada1b52fb3719af02c2d30e2135f566c5ddd",
+      "changed": false,
+      "title": "Introducing Hololuminescent™ Displays"
+    },
+    "https://daylightcomputer.com/": {
+      "checkedAt": "2026-09-21T16:42:53.770Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://daylightcomputer.com/",
+      "redirected": false,
+      "bodyHash": "3bef96eeb693945ee932226a3a83d549bec53dab19455b5a2da69e0b7bbbc80f",
+      "changed": false,
+      "title": "Daylight | A More Caring Computer"
+    },
+    "https://www.openstreetmap.org/?mlat=48.86&mlon=2.35#map=4/48.86/2.35": {
+      "checkedAt": "2026-09-21T16:42:53.768Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.openstreetmap.org/?mlat=48.86&mlon=2.35#map=4/48.86/2.35",
+      "redirected": false,
+      "bodyHash": "cc3362673a0990c842c2fb8294e649476e416302135acbb4ad1b261242be16be",
+      "changed": false,
+      "title": "OpenStreetMap"
+    },
+    "https://www.openstreetmap.org/?mlat=72&mlon=-40#map=4/72/-40": {
+      "checkedAt": "2026-09-21T16:42:53.769Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://www.openstreetmap.org/?mlat=72&mlon=-40#map=4/72/-40",
+      "redirected": false,
+      "bodyHash": "72676d548487289612b4ba92437a678da70738ba1420092a2ef724a68d80143e",
+      "changed": false,
+      "title": "OpenStreetMap"
+    },
+    "https://play.date/": {
+      "checkedAt": "2026-09-21T16:42:54.451Z",
+      "state": "reachable",
+      "status": 200,
+      "finalUrl": "https://play.date/",
+      "redirected": false,
+      "bodyHash": "b2c8466da6ecccd340fda288c2f8972b715d264ee6b15d41f5d7bc6d1ea2d721",
+      "changed": false,
+      "title": "Playdate"
+    }
+  }
+}

@@ -1,5 +1,9 @@
 # Commonwealth research pipeline
 
+## Accuracy and proofreading — required for every run
+
+Read [EDITORIAL.md](EDITORIAL.md) before research or publication. After intake, run `node pipeline/proof.mjs links` and `node pipeline/proof.mjs build`; include updated link and proof artifacts in the intake commit. Report source changes and unresolved copy issues. Open [the proofreading desk](proof.html) to review existing ideas, map entries, new candidates and site templates. Never infer approval from a kept candidate. Before any website update, run the editorial gate for all affected records and obtain Dana's approval of the exact final copy. The initial audit remains pending; link success alone is not accuracy verification.
+
 Web research → checked candidates → research inbox → Dana's selection → website edition.
 
 Codex performs discovery and editorial judgment. A dependency-free Node script validates the results, skips duplicates against the website and all previous candidates (including passes), and generates a readable inbox. GitHub stores the durable record. There is no paid API, database service, email service, or public write endpoint. Scheduled Codex runs use the account's normal usage allowance.
