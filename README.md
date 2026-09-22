@@ -1,4 +1,4 @@
-# Commonwealth
+# Curio
 
 A paper-inspired hub for discovering creative projects, technology, and businesses. Edition 001 features a tear-off noticeboard, a searchable collection of 19 ideas, historical project locations, and a personal saved collection.
 
